@@ -8,9 +8,13 @@ categories: "Smoothies"
 
 # Date Almond Smoothie
 
+**Prep Time** 5 Minutes
+
+**Cook Time** 3 - 5 Minutes
+
 Makes 4 Servings.
 
-In a Vitamix this smoothie is made on the Hot setting. To make in a regular blender make the smoothie then heat in the microwave or in a saucepan on the stove on medium-low heat.
+> In a Vitamix this smoothie is made on the Hot setting. To make in a regular blender make the smoothie then heat in the microwave or in a saucepan on the stove on medium-low heat.
 
 ## Ingredients
 

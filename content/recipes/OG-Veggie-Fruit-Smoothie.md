@@ -8,6 +8,10 @@ categories: "Smoothies"
 
 # OG Veggie/Fruit Smoothie
 
+**Prep Time** 5 Minutes
+
+**Cook Time** 2 Minutes
+
 Makes 4 servings.
 
 A tasty meal replacement smoothie. We usually have 2 servings at a time because it tastes so good.

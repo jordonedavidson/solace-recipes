@@ -12,8 +12,6 @@ categories: "Snacks, Christmas"
 
 A family favourite introduced by my Aunt Betty in the 1970s
 
-**Author** Jordon Davidson, December 2020
-
 **Prep Time** 5 Minutes
 
 **Cook Time** 1 Hour
