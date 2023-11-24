@@ -5,7 +5,7 @@ services:
   hugo-build:
     image: klakegg/hugo:pandoc
     container_name: sr-build
-    user: 1000
+    user: "1000"
     volumes: 
       - ".:/src"
     ports:
@@ -15,7 +15,7 @@ services:
     image: klakegg/hugo:pandoc
     container_name: sr-server
     command: server
-    user: 1000
+    user: "1000"
     volumes: 
       - ".:/src"
     ports:
@@ -25,7 +25,7 @@ services:
     image: klakegg/hugo:pandoc
     container_name: sr-command
     command: ${COMMAND}
-    user: 1000
+    user: "1000"
     volumes: 
       - ".:/src"
     ports:
