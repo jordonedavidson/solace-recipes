@@ -1,0 +1,36 @@
+version: "3.3"
+
+services:
+
+  hugo-build:
+    image: klakegg/hugo:pandoc
+    container_name: sr-build
+    volumes: 
+      - ".:/src"
+    ports:
+      - "1314:1313"
+
+  hugo-server:
+    image: klakegg/hugo:pandoc
+    container_name: sr-server
+    command: server
+    volumes: 
+      - ".:/src"
+    ports:
+      - "1313:1313"
+
+  hugo-command:
+    image: klakegg/hugo:pandoc
+    container_name: sr-command
+    command: ${COMMAND}
+    volumes: 
+      - ".:/src"
+    ports:
+      - "1313:1313"
+
+  local-server:
+    image: nginx
+    volumes:
+      - "./public:/usr/share/nginx/html:ro"
+    ports:
+      - "5502:80"
