@@ -4,7 +4,7 @@ date: 2023-09-23T00:58:49+00:00
 draft: false
 author: "Jordon Davidson"
 categories:
-  - Smoothies
+  - "Smoothies"
 prep-time: "5 Minutes"
 cook-time: "3-5 Minutes"
 ---

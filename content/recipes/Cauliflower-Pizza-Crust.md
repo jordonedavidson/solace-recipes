@@ -4,7 +4,8 @@ date: 2020-09-08T12:35:08Z
 draft: false
 author: "Jordon Davidson"
 categories:
-  - Staples
+  - "Staples"
+  - "Entrées"
 prep-time: "20 Minutes"
 cook-time: "Crust: 25 Minutes, Pizza 10 Minutes"
 ---
