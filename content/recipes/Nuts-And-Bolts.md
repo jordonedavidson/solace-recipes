@@ -3,7 +3,11 @@ title: "Awesome Cauliflower Pizza Crust"
 date: 2020-12-18T14:43:12Z
 draft: false
 author: "Jordon Davidson"
-categories: "Snacks, Christmas"
+categories:
+  - Snacks
+  - Christmas
+prep-time: "5 Minutes"
+cook-time: "1 Hour"
 ---
 
 # Nuts & Bolts

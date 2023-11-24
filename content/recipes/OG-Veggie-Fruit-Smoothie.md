@@ -3,7 +3,10 @@ title: "OG Veggie/Fruit Smoothie"
 date: 2023-09-23T01:11:11+00:00
 draft: false
 author: "Jordon Davidson"
-categories: "Smoothies"
+categories:
+  - Smoothies
+prep-time: "5 Minutes"
+cook-time: "2 Minutes"
 ---
 
 # OG Veggie/Fruit Smoothie
