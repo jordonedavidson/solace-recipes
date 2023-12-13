@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christmas on Solace by the Sea Recipes</title>
+    <link>http://example.org/categories/christmas/</link>
+    <description>Recent content in Christmas on Solace by the Sea Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Fri, 18 Dec 2020 14:43:12 +0000</lastBuildDate><atom:link href="http://example.org/categories/christmas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuts and Bolts</title>
+      <link>http://example.org/recipes/nuts-and-bolts/</link>
+      <pubDate>Fri, 18 Dec 2020 14:43:12 +0000</pubDate>
+      
+      <guid>http://example.org/recipes/nuts-and-bolts/</guid>
+      <description>Nuts &amp;amp; Bolts Our Favourite Christmas-time Snack Mix A family favourite introduced by my Aunt Betty in the 1970s
+Prep Time 5 Minutes
+Cook Time 1 Hour
+Ingredients Flavouring 1 Tbsp. Worchestershire sauce 1/2 tsp. Celery salt 1/2 tsp. Garlic salt 1/2 tsp. Onion salt 1/2 tsp. Paprika 1/4 cup Butter Snack Bits 2 cups Cheerios 2 cups Shreddies 2 cups Pretzel Sticks 1 1/2 cups Peanuts Instructions Preheat oven to 250°F</description>
+    </item>
+    
+  </channel>
+</rss>

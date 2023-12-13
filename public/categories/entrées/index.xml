@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entrées on Solace by the Sea Recipes</title>
+    <link>http://example.org/categories/entr%C3%A9es/</link>
+    <description>Recent content in Entrées on Solace by the Sea Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 08 Sep 2020 12:35:08 +0000</lastBuildDate><atom:link href="http://example.org/categories/entr%C3%A9es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome Cauliflower Pizza Crust</title>
+      <link>http://example.org/recipes/cauliflower-pizza-crust/</link>
+      <pubDate>Tue, 08 Sep 2020 12:35:08 +0000</pubDate>
+      
+      <guid>http://example.org/recipes/cauliflower-pizza-crust/</guid>
+      <description>Awesome Cauliflower Pizza Crust Based on Cauliflower Pizza Crust (Low Carb Keto Pizza) and The Chef Show S1E5 feat. Robert Rodriguez
+Prep Time 20 Minutes
+Cook Time Crust: 25 Minutes, Pizza 10 Minutes
+Ingredients 1.5 lbs Cauliflower Florets (one large head of cauliflower) 1/2 cup Shredded Cheese (Cheddar, Mozzerella, Monteray Jack, etc.) 1/4 cup Grated Parmesian 2 Large Eggs 1 teaspoon Italian Seasoning 1 teaspoon Red Chili Flakes (optional) Salt and Pepper to taste Instructions Using a food processor or a grater grate the cauliflower florets into a microwave safe bowl.</description>
+    </item>
+    
+  </channel>
+</rss>

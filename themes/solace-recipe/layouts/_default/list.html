@@ -1,0 +1,10 @@
+<article>
+    {{ .Content }}
+</article>
+<section>
+    <ul>
+        {{ range .Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }} | {{ .Params.author }}</a></li>
+        {{ end }}
+    </ul>
+</section>
