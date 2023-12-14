@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <article class="recipe">
-    <section>
+    <section class="info">
         <h1 class="section-title">{{ .Page.Title }}</h1>
         <dl>
             <dt>Prep Time</dt>
@@ -9,6 +9,11 @@
             <dt>Cook Time</dt>
             <dd>{{ .Params.cook_time }}</dd>
         </dl>
+        <div class="category-list">
+            {{ range .Params.categories }}
+            <a class="button" href='{{ "/categories/" | absURL }}{{ . | urlize}}'>{{ . }}</a>
+            {{ end }}
+        </div>
     </section>
     {{ .Content }}
 </article>

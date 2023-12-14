@@ -1,3 +1,18 @@
 {{ define "main" }}
-
+<div class="sidebar-right">
+    <section class="content">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt laborum recusandae quod. Eaque error
+            aspernatur
+            quisquam tempore quos qui facilis ipsam. Temporibus maxime accusamus officia obcaecati ducimus cum, velit
+            recusandae?</p>
+    </section>
+    <aside>
+        <p class="section-title">Categories</p>
+        <ul>
+            {{ range $key, $value := .Site.Taxonomies.categories }}
+            <li><a href="/categories/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})</li>
+            {{ end }}
+        </ul>
+    </aside>
+</div>
 {{ end }}
