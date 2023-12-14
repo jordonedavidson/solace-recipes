@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ $baseURL := .Site.BaseURL }}
 <div class="sidebar-right">
     <section class="content">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt laborum recusandae quod. Eaque error
@@ -10,7 +11,8 @@
         <p class="section-title">Categories</p>
         <ul>
             {{ range $key, $value := .Site.Taxonomies.categories }}
-            <li><a href="{{ $baseURL }}/categories/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value }})
+            <li><a href="{{ $baseURL }}/categories/{{ $key | urlize  }}">{{ $key | humanize }}</a> ({{ len $value
+                }})
             </li>
             {{ end }}
         </ul>
