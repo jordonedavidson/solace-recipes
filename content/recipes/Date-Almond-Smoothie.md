@@ -5,15 +5,9 @@ draft: false
 author: "Jordon Davidson"
 categories:
   - "Smoothies"
-prep-time: "5 Minutes"
-cook-time: "3-5 Minutes"
+prep_time: "5 Minutes"
+cook_time: "3-5 Minutes"
 ---
-
-# Date Almond Smoothie
-
-**Prep Time** 5 Minutes
-
-**Cook Time** 3-5 Minutes
 
 Makes 4 Servings.
 

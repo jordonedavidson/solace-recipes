@@ -6,19 +6,13 @@ author: "Jordon Davidson"
 categories:
   - "Snacks"
   - "Christmas"
-prep-time: "5 Minutes"
-cook-time: "1 Hour"
+prep_time: "5 Minutes"
+cook_time: "1 Hour"
 ---
-
-# Nuts & Bolts
 
 ## Our Favourite Christmas-time Snack Mix
 
 A family favourite introduced by my Aunt Betty in the 1970s
-
-**Prep Time** 5 Minutes
-
-**Cook Time** 1 Hour
 
 ## Ingredients
 

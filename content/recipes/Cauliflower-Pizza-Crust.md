@@ -6,17 +6,11 @@ author: "Jordon Davidson"
 categories:
   - "Staples"
   - "Entrées"
-prep-time: "20 Minutes"
-cook-time: "Crust: 25 Minutes, Pizza 10 Minutes"
+prep_time: "20 Minutes"
+cook_time: "Crust: 25 Minutes, Pizza 10 Minutes"
 ---
 
-# Awesome Cauliflower Pizza Crust
-
 > Based on [Cauliflower Pizza Crust (Low Carb Keto Pizza)](https://downshiftology.com/wprm_print/38865) and **The Chef Show** S1E5 _feat. Robert Rodriguez_
-
-**Prep Time** 20 Minutes
-
-**Cook Time** Crust: 25 Minutes, Pizza 10 Minutes
 
 ## Ingredients
 

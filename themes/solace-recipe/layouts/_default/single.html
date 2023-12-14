@@ -1,7 +1,15 @@
 {{ define "main" }}
 
-<article>
-    <h1>{{ .Page.Title }}</h1>
+<article class="recipe">
+    <section>
+        <h1 class="section-title">{{ .Page.Title }}</h1>
+        <dl>
+            <dt>Prep Time</dt>
+            <dd>{{ .Params.prep_time }}</dd>
+            <dt>Cook Time</dt>
+            <dd>{{ .Params.cook_time }}</dd>
+        </dl>
+    </section>
     {{ .Content }}
 </article>
 

@@ -5,6 +5,6 @@ draft: true
 author: "Jordon Davidson"
 categories:
   - "Staples"
-prep-time: "5 Minutes"
-cook-time: "2 Minutes"
+prep_time: "5 Minutes"
+cook_time: "2 Minutes"
 ---
