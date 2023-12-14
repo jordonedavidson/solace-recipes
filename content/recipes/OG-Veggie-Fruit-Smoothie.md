@@ -9,8 +9,6 @@ prep-time: "5 Minutes"
 cook-time: "2 Minutes"
 ---
 
-# OG Veggie/Fruit Smoothie
-
 **Prep Time** 5 Minutes
 
 **Cook Time** 2 Minutes
