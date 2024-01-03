@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2023-09-23T01:11:11+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/recipes/og-veggie-fruit-smoothie/</loc>
+    <loc>/recipes/og-veggie-fruit-smoothie/</loc>
     <lastmod>2023-09-23T01:11:11+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/recipes/</loc>
+    <loc>/recipes/</loc>
     <lastmod>2023-09-23T01:11:11+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/smoothies/</loc>
+    <loc>/categories/smoothies/</loc>
     <lastmod>2023-09-23T01:11:11+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2023-09-23T01:11:11+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/recipes/date-almond-smoothie/</loc>
+    <loc>/recipes/date-almond-smoothie/</loc>
     <lastmod>2023-09-23T00:58:49+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/christmas/</loc>
+    <loc>/categories/christmas/</loc>
     <lastmod>2020-12-18T14:43:12+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/recipes/nuts-and-bolts/</loc>
+    <loc>/recipes/nuts-and-bolts/</loc>
     <lastmod>2020-12-18T14:43:12+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/snacks/</loc>
+    <loc>/categories/snacks/</loc>
     <lastmod>2020-12-18T14:43:12+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/recipes/cauliflower-pizza-crust/</loc>
+    <loc>/recipes/cauliflower-pizza-crust/</loc>
     <lastmod>2020-09-08T12:35:08+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/entr%C3%A9es/</loc>
+    <loc>/categories/entr%C3%A9es/</loc>
     <lastmod>2020-09-08T12:35:08+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/staples/</loc>
+    <loc>/categories/staples/</loc>
     <lastmod>2020-09-08T12:35:08+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

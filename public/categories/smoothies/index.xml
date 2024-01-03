@@ -2,33 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smoothies on Solace by the Sea Recipes</title>
-    <link>http://example.org/categories/smoothies/</link>
+    <link>/categories/smoothies/</link>
     <description>Recent content in Smoothies on Solace by the Sea Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 23 Sep 2023 01:11:11 +0000</lastBuildDate><atom:link href="http://example.org/categories/smoothies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 01:11:11 +0000</lastBuildDate><atom:link href="/categories/smoothies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OG Veggie/Fruit Smoothie</title>
-      <link>http://example.org/recipes/og-veggie-fruit-smoothie/</link>
+      <link>/recipes/og-veggie-fruit-smoothie/</link>
       <pubDate>Sat, 23 Sep 2023 01:11:11 +0000</pubDate>
       
-      <guid>http://example.org/recipes/og-veggie-fruit-smoothie/</guid>
-      <description>OG Veggie/Fruit Smoothie Prep Time 5 Minutes
-Cook Time 2 Minutes
-Makes 4 servings.
+      <guid>/recipes/og-veggie-fruit-smoothie/</guid>
+      <description>Makes 4 servings.
 A tasty meal replacement smoothie. We usually have 2 servings at a time because it tastes so good.
 Ingredients 750 ml Water 1 Frozen bananna 2 handfuls of Baby Spinach (fresh or frozen) 2 cups frozen fruit (we like mixed berries) 4 tbsp. Fibre powder 2 tbsp. Protein powder 1 tbsp. Chia seeds 1 tbsp. Cocoa powder Milk of your choice (1% to 18% milk, soy, almond, oat&amp;hellip; whichever you prefer) Instructions To the blender add:</description>
     </item>
     
     <item>
       <title>Date-Almond Smoothie</title>
-      <link>http://example.org/recipes/date-almond-smoothie/</link>
+      <link>/recipes/date-almond-smoothie/</link>
       <pubDate>Sat, 23 Sep 2023 00:58:49 +0000</pubDate>
       
-      <guid>http://example.org/recipes/date-almond-smoothie/</guid>
-      <description>Date Almond Smoothie Prep Time 5 Minutes
-Cook Time 3-5 Minutes
-Makes 4 Servings.
+      <guid>/recipes/date-almond-smoothie/</guid>
+      <description>Makes 4 Servings.
 In a Vitamix this smoothie is made on the Hot setting. To make in a regular blender make the smoothie then heat in the microwave or in a saucepan on the stove on medium-low heat.
 Ingredients 2 Cups unsweetend almond milk 40 Raw almonds 5-7 pitted dates 1 medium to large bananna. 4 tbsp. Peanut Butter (pure peanut butter, like Kraft Just Peanuts) 4 cups boiled water 2 shakes allspice (appox.</description>
     </item>

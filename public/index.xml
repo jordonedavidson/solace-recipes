@@ -2,58 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solace by the Sea Recipes</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on Solace by the Sea Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 23 Sep 2023 01:11:11 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 01:11:11 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OG Veggie/Fruit Smoothie</title>
-      <link>http://example.org/recipes/og-veggie-fruit-smoothie/</link>
+      <link>/recipes/og-veggie-fruit-smoothie/</link>
       <pubDate>Sat, 23 Sep 2023 01:11:11 +0000</pubDate>
       
-      <guid>http://example.org/recipes/og-veggie-fruit-smoothie/</guid>
-      <description>OG Veggie/Fruit Smoothie Prep Time 5 Minutes
-Cook Time 2 Minutes
-Makes 4 servings.
+      <guid>/recipes/og-veggie-fruit-smoothie/</guid>
+      <description>Makes 4 servings.
 A tasty meal replacement smoothie. We usually have 2 servings at a time because it tastes so good.
 Ingredients 750 ml Water 1 Frozen bananna 2 handfuls of Baby Spinach (fresh or frozen) 2 cups frozen fruit (we like mixed berries) 4 tbsp. Fibre powder 2 tbsp. Protein powder 1 tbsp. Chia seeds 1 tbsp. Cocoa powder Milk of your choice (1% to 18% milk, soy, almond, oat&amp;hellip; whichever you prefer) Instructions To the blender add:</description>
     </item>
     
     <item>
       <title>Date-Almond Smoothie</title>
-      <link>http://example.org/recipes/date-almond-smoothie/</link>
+      <link>/recipes/date-almond-smoothie/</link>
       <pubDate>Sat, 23 Sep 2023 00:58:49 +0000</pubDate>
       
-      <guid>http://example.org/recipes/date-almond-smoothie/</guid>
-      <description>Date Almond Smoothie Prep Time 5 Minutes
-Cook Time 3-5 Minutes
-Makes 4 Servings.
+      <guid>/recipes/date-almond-smoothie/</guid>
+      <description>Makes 4 Servings.
 In a Vitamix this smoothie is made on the Hot setting. To make in a regular blender make the smoothie then heat in the microwave or in a saucepan on the stove on medium-low heat.
 Ingredients 2 Cups unsweetend almond milk 40 Raw almonds 5-7 pitted dates 1 medium to large bananna. 4 tbsp. Peanut Butter (pure peanut butter, like Kraft Just Peanuts) 4 cups boiled water 2 shakes allspice (appox.</description>
     </item>
     
     <item>
       <title>Nuts and Bolts</title>
-      <link>http://example.org/recipes/nuts-and-bolts/</link>
+      <link>/recipes/nuts-and-bolts/</link>
       <pubDate>Fri, 18 Dec 2020 14:43:12 +0000</pubDate>
       
-      <guid>http://example.org/recipes/nuts-and-bolts/</guid>
-      <description>Nuts &amp;amp; Bolts Our Favourite Christmas-time Snack Mix A family favourite introduced by my Aunt Betty in the 1970s
-Prep Time 5 Minutes
-Cook Time 1 Hour
-Ingredients Flavouring 1 Tbsp. Worchestershire sauce 1/2 tsp. Celery salt 1/2 tsp. Garlic salt 1/2 tsp. Onion salt 1/2 tsp. Paprika 1/4 cup Butter Snack Bits 2 cups Cheerios 2 cups Shreddies 2 cups Pretzel Sticks 1 1/2 cups Peanuts Instructions Preheat oven to 250°F</description>
+      <guid>/recipes/nuts-and-bolts/</guid>
+      <description>Our Favourite Christmas-time Snack Mix A family favourite introduced by my Aunt Betty in the 1970s
+Ingredients Flavouring 1 Tbsp. Worchestershire sauce 1/2 tsp. Celery salt 1/2 tsp. Garlic salt 1/2 tsp. Onion salt 1/2 tsp. Paprika 1/4 cup Butter Snack Bits 2 cups Cheerios 2 cups Shreddies 2 cups Pretzel Sticks 1 1/2 cups Peanuts Instructions Preheat oven to 250°F
+In a glass 1 cup measure melt the butter in the microwave.</description>
     </item>
     
     <item>
       <title>Awesome Cauliflower Pizza Crust</title>
-      <link>http://example.org/recipes/cauliflower-pizza-crust/</link>
+      <link>/recipes/cauliflower-pizza-crust/</link>
       <pubDate>Tue, 08 Sep 2020 12:35:08 +0000</pubDate>
       
-      <guid>http://example.org/recipes/cauliflower-pizza-crust/</guid>
-      <description>Awesome Cauliflower Pizza Crust Based on Cauliflower Pizza Crust (Low Carb Keto Pizza) and The Chef Show S1E5 feat. Robert Rodriguez
-Prep Time 20 Minutes
-Cook Time Crust: 25 Minutes, Pizza 10 Minutes
+      <guid>/recipes/cauliflower-pizza-crust/</guid>
+      <description>Based on Cauliflower Pizza Crust (Low Carb Keto Pizza) and The Chef Show S1E5 feat. Robert Rodriguez
 Ingredients 1.5 lbs Cauliflower Florets (one large head of cauliflower) 1/2 cup Shredded Cheese (Cheddar, Mozzerella, Monteray Jack, etc.) 1/4 cup Grated Parmesian 2 Large Eggs 1 teaspoon Italian Seasoning 1 teaspoon Red Chili Flakes (optional) Salt and Pepper to taste Instructions Using a food processor or a grater grate the cauliflower florets into a microwave safe bowl.</description>
     </item>
     
