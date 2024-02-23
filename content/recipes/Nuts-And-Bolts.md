@@ -12,7 +12,7 @@ cook_time: "1 Hour"
 
 ## Our Favourite Christmas-time Snack Mix
 
-A family favourite introduced by my Aunt Betty in the 1970s
+A family favourite introduced by my Aunt Betty in the 1970s.
 
 ## Ingredients
 
@@ -50,4 +50,4 @@ Remove after an hour and allow to cool.
 
 Enjoy!
 
-> For a truly decadent treat add 2 cups of Vanessa's Caramel Popcorn to the final product. You'll never settle for plain Cracker Jack again!
+> For a truly decadent treat add 2 cups of [Vanessa's Caramel Popcorn]({{<relref "/recipes/vanessas-caramel-popcorn">}} "Vanessa's Caramel Popcorn recipe") to the final product. You'll never settle for plain Cracker Jack again!
