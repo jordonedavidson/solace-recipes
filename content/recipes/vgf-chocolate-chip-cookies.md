@@ -5,8 +5,8 @@ draft: false
 author: "Jordon Davidson"
 categories:
   - "Snacks"
-prep-time: "45 Minutes"
-cook-time: "15 Minutes"
+prep_time: "45 Minutes"
+cook_time: "15 Minutes"
 ---
 
 Makes about 20 cookies.
