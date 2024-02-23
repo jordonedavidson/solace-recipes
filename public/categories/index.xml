@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Solace by the Sea Recipes</title>
-    <link>http://example.org/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Solace by the Sea Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 23 Sep 2023 01:11:11 +0000</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 23:53:21 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snacks</title>
+      <link>/categories/snacks/</link>
+      <pubDate>Thu, 22 Feb 2024 23:53:21 +0000</pubDate>
+      
+      <guid>/categories/snacks/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Smoothies</title>
-      <link>http://example.org/categories/smoothies/</link>
+      <link>/categories/smoothies/</link>
       <pubDate>Sat, 23 Sep 2023 01:11:11 +0000</pubDate>
       
-      <guid>http://example.org/categories/smoothies/</guid>
+      <guid>/categories/smoothies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christmas</title>
-      <link>http://example.org/categories/christmas/</link>
+      <link>/categories/christmas/</link>
       <pubDate>Fri, 18 Dec 2020 14:43:12 +0000</pubDate>
       
-      <guid>http://example.org/categories/christmas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Snacks</title>
-      <link>http://example.org/categories/snacks/</link>
-      <pubDate>Fri, 18 Dec 2020 14:43:12 +0000</pubDate>
-      
-      <guid>http://example.org/categories/snacks/</guid>
+      <guid>/categories/christmas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entrées</title>
-      <link>http://example.org/categories/entr%C3%A9es/</link>
+      <link>/categories/entr%C3%A9es/</link>
       <pubDate>Tue, 08 Sep 2020 12:35:08 +0000</pubDate>
       
-      <guid>http://example.org/categories/entr%C3%A9es/</guid>
+      <guid>/categories/entr%C3%A9es/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Staples</title>
-      <link>http://example.org/categories/staples/</link>
+      <link>/categories/staples/</link>
       <pubDate>Tue, 08 Sep 2020 12:35:08 +0000</pubDate>
       
-      <guid>http://example.org/categories/staples/</guid>
+      <guid>/categories/staples/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snacks on Solace by the Sea Recipes</title>
-    <link>http://example.org/categories/snacks/</link>
+    <link>/categories/snacks/</link>
     <description>Recent content in Snacks on Solace by the Sea Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 18 Dec 2020 14:43:12 +0000</lastBuildDate><atom:link href="http://example.org/categories/snacks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 23:53:21 +0000</lastBuildDate><atom:link href="/categories/snacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vegan, Gluten-Free Chocolate Chip Cookies</title>
+      <link>/recipes/vgf-chocolate-chip-cookies/</link>
+      <pubDate>Thu, 22 Feb 2024 23:53:21 +0000</pubDate>
+      
+      <guid>/recipes/vgf-chocolate-chip-cookies/</guid>
+      <description>Makes about 20 cookies.
+This has become our go-to chocolate-chip cookie. Not too sweet and oh-so-good.
+Ingredients 1 tbsp. flaxseed Meal 2 tbsp. water ¾ cup packed brown sugar ½ cup softend vegan butter 2 tsp. vanilla extract 1⅓ cups gluten-free flour 1 tsp. baking powder 1 tsp. salt ¾ cup gluten-free chocolate chips/chunks. Instructions In the bowl of a stand mixer combine the flaxseed meal and water to make a flax egg.</description>
+    </item>
+    
     <item>
       <title>Nuts and Bolts</title>
-      <link>http://example.org/recipes/nuts-and-bolts/</link>
+      <link>/recipes/nuts-and-bolts/</link>
       <pubDate>Fri, 18 Dec 2020 14:43:12 +0000</pubDate>
       
-      <guid>http://example.org/recipes/nuts-and-bolts/</guid>
-      <description>Nuts &amp;amp; Bolts Our Favourite Christmas-time Snack Mix A family favourite introduced by my Aunt Betty in the 1970s
-Prep Time 5 Minutes
-Cook Time 1 Hour
-Ingredients Flavouring 1 Tbsp. Worchestershire sauce 1/2 tsp. Celery salt 1/2 tsp. Garlic salt 1/2 tsp. Onion salt 1/2 tsp. Paprika 1/4 cup Butter Snack Bits 2 cups Cheerios 2 cups Shreddies 2 cups Pretzel Sticks 1 1/2 cups Peanuts Instructions Preheat oven to 250°F</description>
+      <guid>/recipes/nuts-and-bolts/</guid>
+      <description>Our Favourite Christmas-time Snack Mix A family favourite introduced by my Aunt Betty in the 1970s
+Ingredients Flavouring 1 Tbsp. Worchestershire sauce 1/2 tsp. Celery salt 1/2 tsp. Garlic salt 1/2 tsp. Onion salt 1/2 tsp. Paprika 1/4 cup Butter Snack Bits 2 cups Cheerios 2 cups Shreddies 2 cups Pretzel Sticks 1 1/2 cups Peanuts Instructions Preheat oven to 250°F
+In a glass 1 cup measure melt the butter in the microwave.</description>
     </item>
     
   </channel>
