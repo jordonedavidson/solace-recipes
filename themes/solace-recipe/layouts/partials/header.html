@@ -1,9 +1,9 @@
 <header class="primary-header full-width">
-    <h1 class="site-title">{{ .Site.Title }}</h1>
-    <nav>
-        <ul>
-            <li>Home</li>
-            <li>About</li>
-        </ul>
-    </nav>
+  <h1 class="site-title">{{ .Site.Title }}</h1>
+  <nav>
+    <ul>
+      <li><a href="{{ ref . "/" }}" title="{{ .Site.Title }}">Home</a></li>
+      <li>About</li>
+    </ul>
+  </nav>
 </header>
